@@ -1,271 +1,32 @@
 {
-  "lat": 33.44,
-  "lon": -94.04,
-  "timezone": "America/Chicago",
-  "timezone_offset": -18000,
-  "current": {
-      "dt": 1747610032,
-      "sunrise": 1747566829,
-      "sunset": 1747617098,
-      "temp": 28.25,
-      "feels_like": 32.4,
-      "pressure": 1008,
-      "humidity": 78,
-      "dew_point": 24.05,
-      "uvi": 1.33,
-      "clouds": 0,
-      "visibility": 10000,
-      "wind_speed": 4.12,
-      "wind_deg": 160,
-      "weather": [
-          {
-              "id": 800,
-              "main": "Clear",
-              "description": "clear sky",
-              "icon": "01d"
-          }
-      ]
-  },
-  "minutely": [
-      {
-          "dt": 1747610040,
-          "precipitation": 0
+    "lat": "29.76328N",
+    "lon": "95.36327W",
+    "elevation": 12,
+    "timezone": "America/Chicago",
+    "units": "metric",
+    "current": {
+      "icon": "mostly_cloudy",
+      "icon_num": 5,
+      "summary": "Mostly cloudy",
+      "temperature": 30.8,
+      "feels_like": 29.5,
+      "wind_chill": 34.5,
+      "dew_point": 14.2,
+      "wind": {
+        "speed": 7.2,
+        "gusts": 12.6,
+        "angle": 173,
+        "dir": "S"
       },
-      {
-          "dt": 1747610100,
-          "precipitation": 0
+      "precipitation": {
+        "total": 0,
+        "type": "none"
       },
-      {
-          "dt": 1747610160,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610220,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610280,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610340,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610400,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610460,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610520,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610580,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610640,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610700,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610760,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610820,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610880,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747610940,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611000,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611060,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611120,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611180,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611240,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611300,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611360,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611420,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611480,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611540,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611600,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611660,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611720,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611780,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611840,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611900,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747611960,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612020,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612080,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612140,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612200,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612260,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612320,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612380,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612440,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612500,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612560,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612620,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612680,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612740,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612800,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612860,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612920,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747612980,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747613040,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747613100,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747613160,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747613220,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747613280,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747613340,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747613400,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747613460,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747613520,
-          "precipitation": 0
-      },
-      {
-          "dt": 1747613580,
-          "precipitation": 0
-      }
-  ]
-}
+      "cloud_cover": 70,
+      "ozone": 294.59,
+      "pressure": 1007,
+      "uv_index": 8.28,
+      "humidity": 36,
+      "visibility": 24.14
+    }
+  }

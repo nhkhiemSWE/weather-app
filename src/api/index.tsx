@@ -1,11 +1,19 @@
 import sampleWeather from "@/api/current-weather.json";
+import dailyForecast from "@/api/daily-forecast.json";
+import hourlyForecast from "@/api/hourly-forecast.json";
+import { title } from "process";
+
+export const units = {
+  temperature: '°C',
+  precipitation: 'mm/h',
+  windSpeed: 'm/s',}
 
 // ── types you’ll actually use in the UI ──────────────────────────────
 export interface WeatherData {
   cloud_cover:  number;
   feels_like:   number;
   humidity:     number;
-  icon_num:     string;
+  icon_num:     number;
   precipitation:number;   // mm in the last hour (or 0)
   summary:      string;
   temperature:  number;   // Kelvin unless you ask ºC/ºF in the API call
@@ -24,49 +32,77 @@ export class WeatherWidget {
     public value: number,
     public unit:  string
   ) {}
+};
+
+export type ForecastData = 
+  | {
+      type : 'hourly';
+      title: string;
+      data: HourlyData[];
+    }
+  | {
+      type :'daily';
+      title: string;
+      data: DailyForecastData[];
+};
+
+
+export type DailyForecastData =
+{
+  type : 'daily';
+  title: string;
+  data: DailyData[];
+};
+
+export type HourlyForecastData =
+{
+  type : 'hourly';
+  title: string;
+  data: HourlyData[];
+};
+
+
+export interface HourlyData {
+  date: string;
+  icon: number;
+  summary: string;
+  temperature: number;
+  precipitation: {
+    total: number;
+  };
+  wind: {
+    speed: number;
+    angle: number;
+  };
 }
 
-// ── minimal slice of the OpenWeather response we care about ─────────
-interface OpenWeatherResponse {
-  current: {
-    clouds:       number;
-    feels_like:   number;
-    humidity:     number;
-    temp:         number;
-    uvi:          number;
-    visibility:   number;
-    wind_speed:   number;
-    weather:      { description: string; icon: string }[];
-
-    // present only when it’s raining/snowing
-    rain?: { ['1h']?: number };   // mm in the last hour
-    snow?: { ['1h']?: number };
+export interface DailyData {
+  date: string;
+  icon: number;
+  summary: string;
+  temperature_max: number;
+  temperature_min: number;
+  precipitation: {
+    total: number;
   };
 }
 
 /**
  * Flatten OpenWeather “current” block into the UI-ready WeatherData object.
  */
-export function getCurrentWeather(data: OpenWeatherResponse = sampleWeather): WeatherData {
-  const { current } = data;
-
-  const precipitation =
-    // prefer rain, then snow; if neither key exists → 0
-    current.rain?.['1h'] ??
-    current.snow?.['1h'] ??
-    0;
-
+export function getCurrentWeather(): WeatherData {
+  const current  = sampleWeather.current;
   return {
-    cloud_cover:  current.clouds,
+    cloud_cover:  current.cloud_cover,
     feels_like:   current.feels_like,
     humidity:     current.humidity,
-    icon_num:     current.weather?.[0]?.icon ?? '',
-    precipitation,
-    summary:      current.weather?.[0]?.description ?? '',
-    temperature:  current.temp,
-    uv_index:     current.uvi,
+    icon_num:     current.icon_num,
+    precipitation: current.precipitation.total,
+    summary:      current.summary,
+    temperature:  current.temperature,
+    uv_index:     current.uv_index,
     visibility:   current.visibility,
-    wind_speed:   current.wind_speed
+    wind_speed:   current.wind.speed,
   };
 }
 
@@ -119,7 +155,40 @@ export function buildOtherInfoWidgets(data: WeatherData): WeatherWidget[] {
   ];
 }
 
-/* ───────────── usage ───────────── */
+/* -------- Time format -------- */
 
-// const data: WeatherData = getCurrentWeather(apiJson);
-// const widgets = buildOtherInfoWidgets(data);
+/* -------- daily -------- */
+export function getDailyForecast(): DailyForecastData {
+  const daily: DailyData[] = dailyForecast.daily.data.map(d => ({
+    date: d.day,
+    icon: d.icon,
+    summary: d.summary,
+    temperature_max: d.temperature_max,
+    temperature_min: d.temperature_min,
+    precipitation: { total: d.precipitation.total },
+  }));
+
+  return {
+    type: 'daily',
+    title: '21 DAYS FORECAST',
+    data: daily,
+  };
+}
+
+/* -------- hourly -------- */
+export function getHourlyForecast(): HourlyForecastData {
+  const hourly: HourlyData[] = hourlyForecast.hourly.data.map(d => ({
+    date: d.date,
+    icon: d.icon,
+    summary: d.summary,
+    temperature: d.temperature,
+    precipitation: { total: d.precipitation.total },
+    wind: { speed: d.wind.speed, angle: d.wind.angle },
+  }));
+
+  return {
+    type: 'hourly',
+    title: 'HOURLY FORECAST',
+    data: hourly,
+  };
+}

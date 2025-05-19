@@ -1,0 +1,3731 @@
+{
+  "lat": "29.76328N",
+  "lon": "95.36327W",
+  "elevation": 12,
+  "timezone": "America/Chicago",
+  "units": "metric",
+  "hourly": {
+    "data": [
+      {
+        "date": "2025-05-19T15:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 30.8,
+        "feels_like": 29.5,
+        "wind_chill": 34.5,
+        "dew_point": 14.2,
+        "wind": {
+          "speed": 7.2,
+          "gusts": 12.6,
+          "dir": "S",
+          "angle": 173
+        },
+        "cloud_cover": 70,
+        "pressure": 1007,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 294.59,
+        "uv_index": 8.28,
+        "humidity": 36,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-19T16:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 30.5,
+        "feels_like": 29,
+        "wind_chill": 34.5,
+        "dew_point": 15,
+        "wind": {
+          "speed": 7,
+          "gusts": 12.3,
+          "dir": "S",
+          "angle": 170
+        },
+        "cloud_cover": 77,
+        "pressure": 1006,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 292.12,
+        "uv_index": 5.84,
+        "humidity": 39,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-19T17:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 30.8,
+        "feels_like": 29.2,
+        "wind_chill": 34.2,
+        "dew_point": 17.5,
+        "wind": {
+          "speed": 6.9,
+          "gusts": 12.4,
+          "dir": "S",
+          "angle": 170
+        },
+        "cloud_cover": 82,
+        "pressure": 1006,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 291.41,
+        "uv_index": 3.02,
+        "humidity": 45,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-19T18:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 30,
+        "feels_like": 29.5,
+        "wind_chill": 33,
+        "dew_point": 19.8,
+        "wind": {
+          "speed": 6.5,
+          "gusts": 12.4,
+          "dir": "SSE",
+          "angle": 167
+        },
+        "cloud_cover": 86,
+        "pressure": 1005,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 292.03,
+        "uv_index": 1.1,
+        "humidity": 54,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-19T19:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 29.8,
+        "feels_like": 31,
+        "wind_chill": 32.5,
+        "dew_point": 21.2,
+        "wind": {
+          "speed": 6.5,
+          "gusts": 12,
+          "dir": "SSE",
+          "angle": 166
+        },
+        "cloud_cover": 79,
+        "pressure": 1005,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 293.38,
+        "uv_index": 0.4,
+        "humidity": 60,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-19T20:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 28.2,
+        "feels_like": 29.2,
+        "wind_chill": 30.2,
+        "dew_point": 22.8,
+        "wind": {
+          "speed": 6.4,
+          "gusts": 12.5,
+          "dir": "SSE",
+          "angle": 157
+        },
+        "cloud_cover": 58,
+        "pressure": 1005,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 293.62,
+        "uv_index": 0,
+        "humidity": 72,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-19T21:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 27.5,
+        "feels_like": 30.5,
+        "wind_chill": 29.5,
+        "dew_point": 24,
+        "wind": {
+          "speed": 5.9,
+          "gusts": 12.7,
+          "dir": "SSE",
+          "angle": 163
+        },
+        "cloud_cover": 73,
+        "pressure": 1005,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 294.73,
+        "uv_index": 0,
+        "humidity": 81,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-19T22:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 27,
+        "feels_like": 29.8,
+        "wind_chill": 28.8,
+        "dew_point": 23.8,
+        "wind": {
+          "speed": 5.3,
+          "gusts": 12.6,
+          "dir": "S",
+          "angle": 171
+        },
+        "cloud_cover": 79,
+        "pressure": 1006,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 296.01,
+        "uv_index": 0,
+        "humidity": 82,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-19T23:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 27,
+        "feels_like": 29.2,
+        "wind_chill": 28.8,
+        "dew_point": 24.2,
+        "wind": {
+          "speed": 5.2,
+          "gusts": 10.8,
+          "dir": "SSE",
+          "angle": 168
+        },
+        "cloud_cover": 78,
+        "pressure": 1006,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 296.61,
+        "uv_index": 0,
+        "humidity": 84,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T00:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 26.8,
+        "feels_like": 29.5,
+        "wind_chill": 28.5,
+        "dew_point": 24.2,
+        "wind": {
+          "speed": 5.1,
+          "gusts": 10.6,
+          "dir": "SSE",
+          "angle": 167
+        },
+        "cloud_cover": 77,
+        "pressure": 1006,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 297.01,
+        "uv_index": 0,
+        "humidity": 86,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T01:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 26.8,
+        "feels_like": 30.2,
+        "wind_chill": 28.8,
+        "dew_point": 24.5,
+        "wind": {
+          "speed": 4.2,
+          "gusts": 10,
+          "dir": "S",
+          "angle": 180
+        },
+        "cloud_cover": 79,
+        "pressure": 1006,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 298.48,
+        "uv_index": 0,
+        "humidity": 87,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T02:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 26.5,
+        "feels_like": 29.8,
+        "wind_chill": 27.8,
+        "dew_point": 24,
+        "wind": {
+          "speed": 3.8,
+          "gusts": 9.1,
+          "dir": "S",
+          "angle": 178
+        },
+        "cloud_cover": 68,
+        "pressure": 1006,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.05,
+        "uv_index": 0,
+        "humidity": 86,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T03:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 26.5,
+        "feels_like": 30,
+        "wind_chill": 28,
+        "dew_point": 24.2,
+        "wind": {
+          "speed": 3.7,
+          "gusts": 9.1,
+          "dir": "S",
+          "angle": 177
+        },
+        "cloud_cover": 65,
+        "pressure": 1006,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.96,
+        "uv_index": 0,
+        "humidity": 87,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T04:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 26.2,
+        "feels_like": 30,
+        "wind_chill": 28,
+        "dew_point": 24.2,
+        "wind": {
+          "speed": 3.7,
+          "gusts": 8.6,
+          "dir": "S",
+          "angle": 176
+        },
+        "cloud_cover": 66,
+        "pressure": 1006,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 302.81,
+        "uv_index": 0,
+        "humidity": 88,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T05:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 26,
+        "feels_like": 30,
+        "wind_chill": 27.5,
+        "dew_point": 24,
+        "wind": {
+          "speed": 3.2,
+          "gusts": 8.3,
+          "dir": "S",
+          "angle": 186
+        },
+        "cloud_cover": 72,
+        "pressure": 1006,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 302.01,
+        "uv_index": 0,
+        "humidity": 88,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T06:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 26,
+        "feels_like": 30.8,
+        "wind_chill": 27.8,
+        "dew_point": 24.5,
+        "wind": {
+          "speed": 2.5,
+          "gusts": 7.3,
+          "dir": "SSW",
+          "angle": 200
+        },
+        "cloud_cover": 78,
+        "pressure": 1007,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 17,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 303.02,
+        "uv_index": 0,
+        "humidity": 91,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T07:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 26,
+        "feels_like": 30,
+        "wind_chill": 27.5,
+        "dew_point": 24.2,
+        "wind": {
+          "speed": 2.6,
+          "gusts": 6.5,
+          "dir": "SSW",
+          "angle": 195
+        },
+        "cloud_cover": 87,
+        "pressure": 1008,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 5,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 302.5,
+        "uv_index": 0.09,
+        "humidity": 90,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T08:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 26.2,
+        "feels_like": 29,
+        "wind_chill": 27.5,
+        "dew_point": 23.5,
+        "wind": {
+          "speed": 3.1,
+          "gusts": 5.2,
+          "dir": "SSW",
+          "angle": 196
+        },
+        "cloud_cover": 87,
+        "pressure": 1009,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 6,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.82,
+        "uv_index": 0.33,
+        "humidity": 84,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T09:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 27.2,
+        "feels_like": 29.8,
+        "wind_chill": 28.8,
+        "dew_point": 23.8,
+        "wind": {
+          "speed": 4.1,
+          "gusts": 7.6,
+          "dir": "SSW",
+          "angle": 199
+        },
+        "cloud_cover": 80,
+        "pressure": 1009,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 12,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.31,
+        "uv_index": 0.77,
+        "humidity": 81,
+        "visibility": 23.72
+      },
+      {
+        "date": "2025-05-20T10:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 28.8,
+        "feels_like": 30.8,
+        "wind_chill": 30.8,
+        "dew_point": 23.8,
+        "wind": {
+          "speed": 4.6,
+          "gusts": 8.5,
+          "dir": "SSW",
+          "angle": 198
+        },
+        "cloud_cover": 54,
+        "pressure": 1009,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 300.33,
+        "uv_index": 2.1,
+        "humidity": 74,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T11:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 30.8,
+        "feels_like": 33.2,
+        "wind_chill": 33.2,
+        "dew_point": 21.8,
+        "wind": {
+          "speed": 4.3,
+          "gusts": 8.6,
+          "dir": "SW",
+          "angle": 229
+        },
+        "cloud_cover": 61,
+        "pressure": 1009,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 5,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.56,
+        "uv_index": 6.18,
+        "humidity": 58,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T12:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 32.8,
+        "feels_like": 35.5,
+        "wind_chill": 36,
+        "dew_point": 21.5,
+        "wind": {
+          "speed": 3.8,
+          "gusts": 8.5,
+          "dir": "WSW",
+          "angle": 245
+        },
+        "cloud_cover": 73,
+        "pressure": 1009,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 9,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.79,
+        "uv_index": 7.61,
+        "humidity": 51,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T13:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 33.8,
+        "feels_like": 35.8,
+        "wind_chill": 37.8,
+        "dew_point": 19.8,
+        "wind": {
+          "speed": 3.7,
+          "gusts": 8.3,
+          "dir": "W",
+          "angle": 262
+        },
+        "cloud_cover": 51,
+        "pressure": 1008,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 300.51,
+        "uv_index": 8.38,
+        "humidity": 43,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T14:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 34.2,
+        "feels_like": 36.5,
+        "wind_chill": 38,
+        "dew_point": 17.5,
+        "wind": {
+          "speed": 3.8,
+          "gusts": 8.2,
+          "dir": "W",
+          "angle": 274
+        },
+        "cloud_cover": 73,
+        "pressure": 1008,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 9,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.92,
+        "uv_index": 9.58,
+        "humidity": 37,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T15:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 35.2,
+        "feels_like": 36.2,
+        "wind_chill": 39.2,
+        "dew_point": 18.2,
+        "wind": {
+          "speed": 3.5,
+          "gusts": 7,
+          "dir": "WSW",
+          "angle": 258
+        },
+        "cloud_cover": 62,
+        "pressure": 1007,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 7,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.06,
+        "uv_index": 6.28,
+        "humidity": 36,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T16:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 35.8,
+        "feels_like": 37,
+        "wind_chill": 40,
+        "dew_point": 18.2,
+        "wind": {
+          "speed": 3,
+          "gusts": 6.7,
+          "dir": "SSW",
+          "angle": 211
+        },
+        "cloud_cover": 64,
+        "pressure": 1007,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 298.11,
+        "uv_index": 4.51,
+        "humidity": 35,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T17:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 36,
+        "feels_like": 36.8,
+        "wind_chill": 39.8,
+        "dew_point": 19.5,
+        "wind": {
+          "speed": 3.7,
+          "gusts": 6.7,
+          "dir": "S",
+          "angle": 184
+        },
+        "cloud_cover": 64,
+        "pressure": 1007,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 298.22,
+        "uv_index": 2.65,
+        "humidity": 38,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T18:00:00",
+        "weather": "mostly_sunny",
+        "icon": 3,
+        "summary": "Mostly sunny",
+        "temperature": 36,
+        "feels_like": 37.8,
+        "wind_chill": 39.8,
+        "dew_point": 19.2,
+        "wind": {
+          "speed": 2.7,
+          "gusts": 6.2,
+          "dir": "SSW",
+          "angle": 205
+        },
+        "cloud_cover": 15,
+        "pressure": 1007,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 3,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.15,
+        "uv_index": 1.3,
+        "humidity": 37,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T19:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 35.5,
+        "feels_like": 38,
+        "wind_chill": 38.5,
+        "dew_point": 14.2,
+        "wind": {
+          "speed": 1.7,
+          "gusts": 5.4,
+          "dir": "W",
+          "angle": 277
+        },
+        "cloud_cover": 22,
+        "pressure": 1007,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.8,
+        "uv_index": 0.42,
+        "humidity": 28,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T20:00:00",
+        "weather": "mostly_sunny",
+        "icon": 3,
+        "summary": "Mostly sunny",
+        "temperature": 33.8,
+        "feels_like": 36.8,
+        "wind_chill": 36.8,
+        "dew_point": 16.5,
+        "wind": {
+          "speed": 1.7,
+          "gusts": 5.2,
+          "dir": "N",
+          "angle": 6
+        },
+        "cloud_cover": 16,
+        "pressure": 1008,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 300.37,
+        "uv_index": 0,
+        "humidity": 35,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-20T21:00:00",
+        "weather": "clear",
+        "icon": 26,
+        "summary": "Clear",
+        "temperature": 31,
+        "feels_like": 33.5,
+        "wind_chill": 33.5,
+        "dew_point": 20,
+        "wind": {
+          "speed": 3.1,
+          "gusts": 5.2,
+          "dir": "NNE",
+          "angle": 19
+        },
+        "cloud_cover": 2,
+        "pressure": 1009,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 300.6,
+        "uv_index": 0,
+        "humidity": 52,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T22:00:00",
+        "weather": "clear",
+        "icon": 26,
+        "summary": "Clear",
+        "temperature": 28.8,
+        "feels_like": 31.2,
+        "wind_chill": 31.2,
+        "dew_point": 20.2,
+        "wind": {
+          "speed": 3.9,
+          "gusts": 4.9,
+          "dir": "NNE",
+          "angle": 27
+        },
+        "cloud_cover": 2,
+        "pressure": 1010,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.06,
+        "uv_index": 0,
+        "humidity": 60,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-20T23:00:00",
+        "weather": "mostly_clear",
+        "icon": 27,
+        "summary": "Mostly clear",
+        "temperature": 27.5,
+        "feels_like": 28.5,
+        "wind_chill": 29.5,
+        "dew_point": 17.2,
+        "wind": {
+          "speed": 4.3,
+          "gusts": 5.1,
+          "dir": "NNE",
+          "angle": 34
+        },
+        "cloud_cover": 14,
+        "pressure": 1011,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.83,
+        "uv_index": 0,
+        "humidity": 53,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T00:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 26.5,
+        "feels_like": 26.8,
+        "wind_chill": 28.8,
+        "dew_point": 14.5,
+        "wind": {
+          "speed": 3.7,
+          "gusts": 5.1,
+          "dir": "NE",
+          "angle": 36
+        },
+        "cloud_cover": 30,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.06,
+        "uv_index": 0,
+        "humidity": 47,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T01:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 25.5,
+        "feels_like": 24.8,
+        "wind_chill": 27.2,
+        "dew_point": 13.2,
+        "wind": {
+          "speed": 3.4,
+          "gusts": 5.7,
+          "dir": "NE",
+          "angle": 38
+        },
+        "cloud_cover": 20,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 302.17,
+        "uv_index": 0,
+        "humidity": 46,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T02:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 24.8,
+        "feels_like": 24.5,
+        "wind_chill": 26.5,
+        "dew_point": 14.5,
+        "wind": {
+          "speed": 3.6,
+          "gusts": 5.9,
+          "dir": "NNE",
+          "angle": 33
+        },
+        "cloud_cover": 35,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 302.41,
+        "uv_index": 0,
+        "humidity": 52,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T03:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 24,
+        "feels_like": 23,
+        "wind_chill": 25.5,
+        "dew_point": 15,
+        "wind": {
+          "speed": 3.9,
+          "gusts": 6.1,
+          "dir": "NNE",
+          "angle": 32
+        },
+        "cloud_cover": 40,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.46,
+        "uv_index": 0,
+        "humidity": 57,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T04:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 23.5,
+        "feels_like": 22.5,
+        "wind_chill": 24.5,
+        "dew_point": 15,
+        "wind": {
+          "speed": 3.8,
+          "gusts": 5.9,
+          "dir": "NNE",
+          "angle": 31
+        },
+        "cloud_cover": 40,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.16,
+        "uv_index": 0,
+        "humidity": 58,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T05:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 23,
+        "feels_like": 21.8,
+        "wind_chill": 23.8,
+        "dew_point": 15.2,
+        "wind": {
+          "speed": 3.8,
+          "gusts": 6.1,
+          "dir": "NE",
+          "angle": 41
+        },
+        "cloud_cover": 35,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 300.24,
+        "uv_index": 0,
+        "humidity": 61,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T06:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 22.5,
+        "feels_like": 21.8,
+        "wind_chill": 23.2,
+        "dew_point": 15,
+        "wind": {
+          "speed": 3.3,
+          "gusts": 5.9,
+          "dir": "ENE",
+          "angle": 59
+        },
+        "cloud_cover": 40,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.3,
+        "uv_index": 0,
+        "humidity": 62,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T07:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 22.5,
+        "feels_like": 21.8,
+        "wind_chill": 23.2,
+        "dew_point": 15,
+        "wind": {
+          "speed": 3.2,
+          "gusts": 5.5,
+          "dir": "ENE",
+          "angle": 57
+        },
+        "cloud_cover": 96,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.4,
+        "uv_index": 0.11,
+        "humidity": 62,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T08:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 23.2,
+        "feels_like": 22.2,
+        "wind_chill": 24.2,
+        "dew_point": 14.2,
+        "wind": {
+          "speed": 3.3,
+          "gusts": 5.6,
+          "dir": "ENE",
+          "angle": 62
+        },
+        "cloud_cover": 100,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.05,
+        "uv_index": 0.63,
+        "humidity": 56,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T09:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 25,
+        "feels_like": 23.8,
+        "wind_chill": 26.8,
+        "dew_point": 13.5,
+        "wind": {
+          "speed": 3.2,
+          "gusts": 6.1,
+          "dir": "ENE",
+          "angle": 77
+        },
+        "cloud_cover": 84,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.16,
+        "uv_index": 2,
+        "humidity": 48,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T10:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 27.2,
+        "feels_like": 27.2,
+        "wind_chill": 29.2,
+        "dew_point": 12.8,
+        "wind": {
+          "speed": 2.9,
+          "gusts": 7,
+          "dir": "E",
+          "angle": 91
+        },
+        "cloud_cover": 33,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 298.71,
+        "uv_index": 4.43,
+        "humidity": 40,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T11:00:00",
+        "weather": "mostly_sunny",
+        "icon": 3,
+        "summary": "Mostly sunny",
+        "temperature": 29.2,
+        "feels_like": 30.5,
+        "wind_chill": 31.5,
+        "dew_point": 11.8,
+        "wind": {
+          "speed": 3.1,
+          "gusts": 7.8,
+          "dir": "E",
+          "angle": 99
+        },
+        "cloud_cover": 12,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.99,
+        "uv_index": 7.24,
+        "humidity": 33,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T12:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 31,
+        "feels_like": 32.2,
+        "wind_chill": 33.8,
+        "dew_point": 12.2,
+        "wind": {
+          "speed": 3,
+          "gusts": 7.8,
+          "dir": "ESE",
+          "angle": 106
+        },
+        "cloud_cover": 63,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.38,
+        "uv_index": 9.69,
+        "humidity": 31,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T13:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 31.5,
+        "feels_like": 32.2,
+        "wind_chill": 34.8,
+        "dew_point": 12,
+        "wind": {
+          "speed": 3.2,
+          "gusts": 7.7,
+          "dir": "ESE",
+          "angle": 124
+        },
+        "cloud_cover": 63,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.22,
+        "uv_index": 11,
+        "humidity": 30,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T14:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 31.2,
+        "feels_like": 32.2,
+        "wind_chill": 34.8,
+        "dew_point": 11.2,
+        "wind": {
+          "speed": 3.3,
+          "gusts": 6.6,
+          "dir": "SE",
+          "angle": 132
+        },
+        "cloud_cover": 66,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 299.17,
+        "uv_index": 10.74,
+        "humidity": 29,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T15:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 31,
+        "feels_like": 31.5,
+        "wind_chill": 34.5,
+        "dew_point": 10.8,
+        "wind": {
+          "speed": 3.5,
+          "gusts": 6,
+          "dir": "SE",
+          "angle": 134
+        },
+        "cloud_cover": 100,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 301.26,
+        "uv_index": 8.98,
+        "humidity": 28,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T16:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 31.2,
+        "feels_like": 30.5,
+        "wind_chill": 35,
+        "dew_point": 12,
+        "wind": {
+          "speed": 4,
+          "gusts": 5.9,
+          "dir": "SE",
+          "angle": 133
+        },
+        "cloud_cover": 74,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 302.1,
+        "uv_index": 6.17,
+        "humidity": 30,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T17:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 31.2,
+        "feels_like": 32,
+        "wind_chill": 35,
+        "dew_point": 13.2,
+        "wind": {
+          "speed": 4.2,
+          "gusts": 5.9,
+          "dir": "SE",
+          "angle": 130
+        },
+        "cloud_cover": 81,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 302.82,
+        "uv_index": 3.38,
+        "humidity": 33,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T18:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 30.5,
+        "feels_like": 31.2,
+        "wind_chill": 34.2,
+        "dew_point": 15,
+        "wind": {
+          "speed": 4.4,
+          "gusts": 5.7,
+          "dir": "SE",
+          "angle": 127
+        },
+        "cloud_cover": 84,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 304.34,
+        "uv_index": 1.46,
+        "humidity": 39,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T19:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 29.8,
+        "feels_like": 31,
+        "wind_chill": 33,
+        "dew_point": 17,
+        "wind": {
+          "speed": 4.4,
+          "gusts": 5.1,
+          "dir": "SE",
+          "angle": 133
+        },
+        "cloud_cover": 88,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 306.04,
+        "uv_index": 0.41,
+        "humidity": 46,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T20:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 29,
+        "feels_like": 30.5,
+        "wind_chill": 31.5,
+        "dew_point": 18.8,
+        "wind": {
+          "speed": 3.9,
+          "gusts": 5.1,
+          "dir": "SE",
+          "angle": 145
+        },
+        "cloud_cover": 100,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 307.43,
+        "uv_index": 0,
+        "humidity": 53,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T21:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 28.2,
+        "feels_like": 29,
+        "wind_chill": 30.5,
+        "dew_point": 20.2,
+        "wind": {
+          "speed": 3.5,
+          "gusts": 4.9,
+          "dir": "SSE",
+          "angle": 153
+        },
+        "cloud_cover": 100,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.3,
+        "uv_index": 0,
+        "humidity": 61,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-21T22:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 27.2,
+        "feels_like": 29,
+        "wind_chill": 29,
+        "dew_point": 20.8,
+        "wind": {
+          "speed": 3.1,
+          "gusts": 4,
+          "dir": "SSE",
+          "angle": 158
+        },
+        "cloud_cover": 100,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 307.3,
+        "uv_index": 0,
+        "humidity": 67,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-21T23:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 26.2,
+        "feels_like": 28.2,
+        "wind_chill": 28.2,
+        "dew_point": 21,
+        "wind": {
+          "speed": 3,
+          "gusts": 3.9,
+          "dir": "SSE",
+          "angle": 162
+        },
+        "cloud_cover": 100,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 307,
+        "uv_index": 0,
+        "humidity": 72,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T00:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 25.5,
+        "feels_like": 28,
+        "wind_chill": 27.5,
+        "dew_point": 20.8,
+        "wind": {
+          "speed": 2.6,
+          "gusts": 3.6,
+          "dir": "S",
+          "angle": 174
+        },
+        "cloud_cover": 100,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 306.8,
+        "uv_index": 0,
+        "humidity": 75,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T01:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 24.8,
+        "feels_like": 27,
+        "wind_chill": 26.5,
+        "dew_point": 20.2,
+        "wind": {
+          "speed": 2.5,
+          "gusts": 3.5,
+          "dir": "S",
+          "angle": 179
+        },
+        "cloud_cover": 100,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.89,
+        "uv_index": 0,
+        "humidity": 76,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T02:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 24.5,
+        "feels_like": 27.5,
+        "wind_chill": 26.5,
+        "dew_point": 20.8,
+        "wind": {
+          "speed": 2.3,
+          "gusts": 3.3,
+          "dir": "S",
+          "angle": 175
+        },
+        "cloud_cover": 100,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.33,
+        "uv_index": 0,
+        "humidity": 79,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T03:00:00",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Overcast",
+        "temperature": 24.2,
+        "feels_like": 27.2,
+        "wind_chill": 25.8,
+        "dew_point": 20.8,
+        "wind": {
+          "speed": 2.1,
+          "gusts": 3.5,
+          "dir": "S",
+          "angle": 184
+        },
+        "cloud_cover": 100,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.52,
+        "uv_index": 0,
+        "humidity": 80,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T04:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 24.2,
+        "feels_like": 27,
+        "wind_chill": 26,
+        "dew_point": 21,
+        "wind": {
+          "speed": 2.1,
+          "gusts": 3.4,
+          "dir": "SSW",
+          "angle": 212
+        },
+        "cloud_cover": 76,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.28,
+        "uv_index": 0,
+        "humidity": 82,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T05:00:00",
+        "weather": "cloudy",
+        "icon": 30,
+        "summary": "Cloudy",
+        "temperature": 24.2,
+        "feels_like": 27.5,
+        "wind_chill": 26,
+        "dew_point": 21.5,
+        "wind": {
+          "speed": 1.7,
+          "gusts": 2.7,
+          "dir": "SSW",
+          "angle": 207
+        },
+        "cloud_cover": 88,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.24,
+        "uv_index": 0,
+        "humidity": 84,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T06:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 24.2,
+        "feels_like": 27.8,
+        "wind_chill": 26.2,
+        "dew_point": 21.8,
+        "wind": {
+          "speed": 1.1,
+          "gusts": 2.5,
+          "dir": "S",
+          "angle": 184
+        },
+        "cloud_cover": 73,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.32,
+        "uv_index": 0,
+        "humidity": 85,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T07:00:00",
+        "weather": "fog",
+        "icon": 9,
+        "summary": "Fog",
+        "temperature": 24.2,
+        "feels_like": 27.8,
+        "wind_chill": 26.2,
+        "dew_point": 21.8,
+        "wind": {
+          "speed": 1.2,
+          "gusts": 1.9,
+          "dir": "S",
+          "angle": 171
+        },
+        "cloud_cover": 78,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 310.46,
+        "uv_index": 0.08,
+        "humidity": 85,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T08:00:00",
+        "weather": "fog",
+        "icon": 9,
+        "summary": "Fog",
+        "temperature": 25,
+        "feels_like": 27.5,
+        "wind_chill": 26.5,
+        "dew_point": 21,
+        "wind": {
+          "speed": 1.8,
+          "gusts": 3.2,
+          "dir": "SW",
+          "angle": 216
+        },
+        "cloud_cover": 69,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 311.13,
+        "uv_index": 0.53,
+        "humidity": 78,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T09:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 26.2,
+        "feels_like": 29,
+        "wind_chill": 28,
+        "dew_point": 20,
+        "wind": {
+          "speed": 1.5,
+          "gusts": 3.1,
+          "dir": "S",
+          "angle": 188
+        },
+        "cloud_cover": 69,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 313.4,
+        "uv_index": 1.61,
+        "humidity": 68,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T10:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 28,
+        "feels_like": 30.8,
+        "wind_chill": 30.2,
+        "dew_point": 18.5,
+        "wind": {
+          "speed": 1,
+          "gusts": 2.7,
+          "dir": "SSE",
+          "angle": 162
+        },
+        "cloud_cover": 71,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 1,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.29,
+        "uv_index": 3.38,
+        "humidity": 56,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T11:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 29.8,
+        "feels_like": 31.8,
+        "wind_chill": 32.2,
+        "dew_point": 18.2,
+        "wind": {
+          "speed": 1.2,
+          "gusts": 2,
+          "dir": "E",
+          "angle": 80
+        },
+        "cloud_cover": 63,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 315.11,
+        "uv_index": 5.3,
+        "humidity": 50,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T12:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 31.8,
+        "feels_like": 33,
+        "wind_chill": 35,
+        "dew_point": 18.2,
+        "wind": {
+          "speed": 2,
+          "gusts": 3,
+          "dir": "ESE",
+          "angle": 101
+        },
+        "cloud_cover": 59,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 3,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.43,
+        "uv_index": 7.07,
+        "humidity": 44,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T13:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 33.2,
+        "feels_like": 34.2,
+        "wind_chill": 36.8,
+        "dew_point": 16.8,
+        "wind": {
+          "speed": 2.3,
+          "gusts": 3.4,
+          "dir": "ESE",
+          "angle": 109
+        },
+        "cloud_cover": 70,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 5,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.24,
+        "uv_index": 9.2,
+        "humidity": 37,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T14:00:00",
+        "weather": "cloudy",
+        "icon": 6,
+        "summary": "Cloudy",
+        "temperature": 33.8,
+        "feels_like": 33.8,
+        "wind_chill": 37.8,
+        "dew_point": 14,
+        "wind": {
+          "speed": 2.7,
+          "gusts": 4.7,
+          "dir": "ESE",
+          "angle": 116
+        },
+        "cloud_cover": 88,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 6,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.79,
+        "uv_index": 9.36,
+        "humidity": 30,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T15:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 34.2,
+        "feels_like": 33.2,
+        "wind_chill": 38.2,
+        "dew_point": 12.8,
+        "wind": {
+          "speed": 3.7,
+          "gusts": 6,
+          "dir": "SE",
+          "angle": 131
+        },
+        "cloud_cover": 66,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.67,
+        "uv_index": 7.87,
+        "humidity": 27,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T16:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 34.8,
+        "feels_like": 34.8,
+        "wind_chill": 38.8,
+        "dew_point": 14.5,
+        "wind": {
+          "speed": 4.6,
+          "gusts": 7.3,
+          "dir": "SE",
+          "angle": 138
+        },
+        "cloud_cover": 60,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 5,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.78,
+        "uv_index": 5.75,
+        "humidity": 29,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T17:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 33.8,
+        "feels_like": 34,
+        "wind_chill": 37.5,
+        "dew_point": 16,
+        "wind": {
+          "speed": 4.7,
+          "gusts": 7.4,
+          "dir": "SE",
+          "angle": 140
+        },
+        "cloud_cover": 60,
+        "pressure": 1012,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.63,
+        "uv_index": 3.32,
+        "humidity": 34,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T18:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 32.8,
+        "feels_like": 33.5,
+        "wind_chill": 36,
+        "dew_point": 17.8,
+        "wind": {
+          "speed": 4.5,
+          "gusts": 7.4,
+          "dir": "SE",
+          "angle": 141
+        },
+        "cloud_cover": 47,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.45,
+        "uv_index": 1.46,
+        "humidity": 40,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T19:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 31.8,
+        "feels_like": 33.2,
+        "wind_chill": 34.8,
+        "dew_point": 19,
+        "wind": {
+          "speed": 4.4,
+          "gusts": 7.4,
+          "dir": "SE",
+          "angle": 139
+        },
+        "cloud_cover": 55,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.49,
+        "uv_index": 0.42,
+        "humidity": 46,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T20:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 30.2,
+        "feels_like": 30.8,
+        "wind_chill": 32.8,
+        "dew_point": 19.8,
+        "wind": {
+          "speed": 4.2,
+          "gusts": 7.5,
+          "dir": "SSE",
+          "angle": 149
+        },
+        "cloud_cover": 59,
+        "pressure": 1013,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.07,
+        "uv_index": 0,
+        "humidity": 53,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T21:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 28.8,
+        "feels_like": 29.8,
+        "wind_chill": 30.8,
+        "dew_point": 21.5,
+        "wind": {
+          "speed": 3.9,
+          "gusts": 7.5,
+          "dir": "SSE",
+          "angle": 167
+        },
+        "cloud_cover": 45,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.26,
+        "uv_index": 0,
+        "humidity": 64,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-22T22:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 27.2,
+        "feels_like": 29,
+        "wind_chill": 29,
+        "dew_point": 21.8,
+        "wind": {
+          "speed": 3.7,
+          "gusts": 7.5,
+          "dir": "S",
+          "angle": 173
+        },
+        "cloud_cover": 48,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.58,
+        "uv_index": 0,
+        "humidity": 71,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-22T23:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 26.5,
+        "feels_like": 28.8,
+        "wind_chill": 28.8,
+        "dew_point": 22.2,
+        "wind": {
+          "speed": 3.3,
+          "gusts": 6.5,
+          "dir": "S",
+          "angle": 179
+        },
+        "cloud_cover": 55,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.3,
+        "uv_index": 0,
+        "humidity": 77,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-23T00:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 26,
+        "feels_like": 29,
+        "wind_chill": 28,
+        "dew_point": 21.8,
+        "wind": {
+          "speed": 2.5,
+          "gusts": 5.4,
+          "dir": "SSW",
+          "angle": 208
+        },
+        "cloud_cover": 61,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 313.53,
+        "uv_index": 0,
+        "humidity": 77,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-23T01:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 25.2,
+        "feels_like": 28.2,
+        "wind_chill": 27.2,
+        "dew_point": 21.2,
+        "wind": {
+          "speed": 1.6,
+          "gusts": 4.2,
+          "dir": "SW",
+          "angle": 222
+        },
+        "cloud_cover": 70,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 313.8,
+        "uv_index": 0,
+        "humidity": 78,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T02:00:00",
+        "weather": "cloudy",
+        "icon": 30,
+        "summary": "Cloudy",
+        "temperature": 25,
+        "feels_like": 28.8,
+        "wind_chill": 26.8,
+        "dew_point": 21.5,
+        "wind": {
+          "speed": 1.1,
+          "gusts": 3.5,
+          "dir": "SW",
+          "angle": 234
+        },
+        "cloud_cover": 85,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.3,
+        "uv_index": 0,
+        "humidity": 80,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-23T03:00:00",
+        "weather": "cloudy",
+        "icon": 30,
+        "summary": "Cloudy",
+        "temperature": 25,
+        "feels_like": 28.8,
+        "wind_chill": 26.8,
+        "dew_point": 21.5,
+        "wind": {
+          "speed": 1.3,
+          "gusts": 3.2,
+          "dir": "NNW",
+          "angle": 328
+        },
+        "cloud_cover": 90,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.3,
+        "uv_index": 0,
+        "humidity": 80,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T04:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 24.8,
+        "feels_like": 28.8,
+        "wind_chill": 26.8,
+        "dew_point": 21,
+        "wind": {
+          "speed": 1.5,
+          "gusts": 3,
+          "dir": "ENE",
+          "angle": 62
+        },
+        "cloud_cover": 79,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 313.02,
+        "uv_index": 0,
+        "humidity": 79,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T05:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 24.8,
+        "feels_like": 28.5,
+        "wind_chill": 26.5,
+        "dew_point": 21.2,
+        "wind": {
+          "speed": 1.8,
+          "gusts": 3.2,
+          "dir": "ENE",
+          "angle": 72
+        },
+        "cloud_cover": 75,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 311.22,
+        "uv_index": 0,
+        "humidity": 80,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T06:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 5,
+        "summary": "Mostly cloudy",
+        "temperature": 24.8,
+        "feels_like": 28.8,
+        "wind_chill": 26.2,
+        "dew_point": 21.5,
+        "wind": {
+          "speed": 1.7,
+          "gusts": 3.3,
+          "dir": "E",
+          "angle": 94
+        },
+        "cloud_cover": 74,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 311.85,
+        "uv_index": 0,
+        "humidity": 82,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T07:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 24.8,
+        "feels_like": 29.2,
+        "wind_chill": 26.2,
+        "dew_point": 22,
+        "wind": {
+          "speed": 1.6,
+          "gusts": 3.4,
+          "dir": "SE",
+          "angle": 140
+        },
+        "cloud_cover": 59,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 313.25,
+        "uv_index": 0.11,
+        "humidity": 84,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-23T08:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 26,
+        "feels_like": 31,
+        "wind_chill": 27.5,
+        "dew_point": 21.8,
+        "wind": {
+          "speed": 1.2,
+          "gusts": 3,
+          "dir": "ESE",
+          "angle": 110
+        },
+        "cloud_cover": 44,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.02,
+        "uv_index": 0.67,
+        "humidity": 77,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-23T09:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 27.2,
+        "feels_like": 32.8,
+        "wind_chill": 29.2,
+        "dew_point": 21,
+        "wind": {
+          "speed": 1.1,
+          "gusts": 2.6,
+          "dir": "ENE",
+          "angle": 57
+        },
+        "cloud_cover": 42,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.33,
+        "uv_index": 2.01,
+        "humidity": 68,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-23T10:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 28.2,
+        "feels_like": 32.8,
+        "wind_chill": 30.8,
+        "dew_point": 19.2,
+        "wind": {
+          "speed": 1,
+          "gusts": 2.7,
+          "dir": "ENE",
+          "angle": 77
+        },
+        "cloud_cover": 45,
+        "pressure": 1017,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.17,
+        "uv_index": 4.16,
+        "humidity": 58,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T11:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 30,
+        "feels_like": 33.8,
+        "wind_chill": 32.8,
+        "dew_point": 18.2,
+        "wind": {
+          "speed": 1.3,
+          "gusts": 3.3,
+          "dir": "SE",
+          "angle": 126
+        },
+        "cloud_cover": 43,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.5,
+        "uv_index": 6.78,
+        "humidity": 49,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T12:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 31.5,
+        "feels_like": 35,
+        "wind_chill": 35,
+        "dew_point": 17,
+        "wind": {
+          "speed": 1.9,
+          "gusts": 3.9,
+          "dir": "SE",
+          "angle": 141
+        },
+        "cloud_cover": 40,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.82,
+        "uv_index": 9.04,
+        "humidity": 41,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T13:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 33,
+        "feels_like": 35.5,
+        "wind_chill": 36.5,
+        "dew_point": 16.2,
+        "wind": {
+          "speed": 2.5,
+          "gusts": 4.4,
+          "dir": "SE",
+          "angle": 136
+        },
+        "cloud_cover": 42,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 2,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.45,
+        "uv_index": 10.27,
+        "humidity": 36,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T14:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 33.2,
+        "feels_like": 35,
+        "wind_chill": 37,
+        "dew_point": 15.5,
+        "wind": {
+          "speed": 3.5,
+          "gusts": 5.4,
+          "dir": "SE",
+          "angle": 132
+        },
+        "cloud_cover": 44,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.11,
+        "uv_index": 10.16,
+        "humidity": 34,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T15:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 33.5,
+        "feels_like": 34,
+        "wind_chill": 37.5,
+        "dew_point": 15.8,
+        "wind": {
+          "speed": 4.7,
+          "gusts": 6.4,
+          "dir": "SE",
+          "angle": 128
+        },
+        "cloud_cover": 46,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 4,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.68,
+        "uv_index": 8.53,
+        "humidity": 34,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T16:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 33.5,
+        "feels_like": 33.5,
+        "wind_chill": 37.5,
+        "dew_point": 16.5,
+        "wind": {
+          "speed": 5.2,
+          "gusts": 7.4,
+          "dir": "SE",
+          "angle": 126
+        },
+        "cloud_cover": 39,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 6,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 313.77,
+        "uv_index": 6.1,
+        "humidity": 36,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-23T17:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 32.8,
+        "feels_like": 33.2,
+        "wind_chill": 36.8,
+        "dew_point": 17.5,
+        "wind": {
+          "speed": 5.1,
+          "gusts": 7.5,
+          "dir": "SE",
+          "angle": 131
+        },
+        "cloud_cover": 27,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 9,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 313.4,
+        "uv_index": 3.57,
+        "humidity": 40,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T18:00:00",
+        "weather": "mostly_sunny",
+        "icon": 3,
+        "summary": "Mostly sunny",
+        "temperature": 32,
+        "feels_like": 33.2,
+        "wind_chill": 35.2,
+        "dew_point": 18.8,
+        "wind": {
+          "speed": 5.1,
+          "gusts": 7.9,
+          "dir": "SE",
+          "angle": 140
+        },
+        "cloud_cover": 15,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 13,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 313,
+        "uv_index": 1.58,
+        "humidity": 45,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-23T19:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 31,
+        "feels_like": 32.8,
+        "wind_chill": 33.8,
+        "dew_point": 20,
+        "wind": {
+          "speed": 4.7,
+          "gusts": 7.9,
+          "dir": "SSE",
+          "angle": 164
+        },
+        "cloud_cover": 53,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 14,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 311.58,
+        "uv_index": 0.45,
+        "humidity": 52,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-23T20:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 29.5,
+        "feels_like": 30.5,
+        "wind_chill": 31.5,
+        "dew_point": 21,
+        "wind": {
+          "speed": 4.2,
+          "gusts": 7.8,
+          "dir": "S",
+          "angle": 170
+        },
+        "cloud_cover": 63,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 3,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 312.8,
+        "uv_index": 0,
+        "humidity": 60,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T21:00:00",
+        "weather": "mostly_clear",
+        "icon": 27,
+        "summary": "Mostly clear",
+        "temperature": 28,
+        "feels_like": 29.5,
+        "wind_chill": 30.5,
+        "dew_point": 21.2,
+        "wind": {
+          "speed": 3.9,
+          "gusts": 7.9,
+          "dir": "SSE",
+          "angle": 168
+        },
+        "cloud_cover": 18,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 315.05,
+        "uv_index": 0,
+        "humidity": 66,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-23T22:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 26.2,
+        "feels_like": 29.2,
+        "wind_chill": 28.2,
+        "dew_point": 20.8,
+        "wind": {
+          "speed": 3.9,
+          "gusts": 8.4,
+          "dir": "SSE",
+          "angle": 159
+        },
+        "cloud_cover": 37,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 315.92,
+        "uv_index": 0,
+        "humidity": 71,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-23T23:00:00",
+        "weather": "mostly_cloudy",
+        "icon": 29,
+        "summary": "Mostly cloudy",
+        "temperature": 26,
+        "feels_like": 28.8,
+        "wind_chill": 27.8,
+        "dew_point": 21.2,
+        "wind": {
+          "speed": 3.6,
+          "gusts": 7.6,
+          "dir": "SSE",
+          "angle": 167
+        },
+        "cloud_cover": 77,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 315.28,
+        "uv_index": 0,
+        "humidity": 75,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T00:00:00",
+        "weather": "mostly_clear",
+        "icon": 27,
+        "summary": "Mostly clear",
+        "temperature": 25.8,
+        "feels_like": 27.8,
+        "wind_chill": 27.2,
+        "dew_point": 21.5,
+        "wind": {
+          "speed": 3.1,
+          "gusts": 6.6,
+          "dir": "S",
+          "angle": 170
+        },
+        "cloud_cover": 20,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 314.8,
+        "uv_index": 0,
+        "humidity": 77,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T01:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 25.5,
+        "feels_like": 29.5,
+        "wind_chill": 27,
+        "dew_point": 21.5,
+        "wind": {
+          "speed": 2.8,
+          "gusts": 5.7,
+          "dir": "S",
+          "angle": 174
+        },
+        "cloud_cover": 22,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 312.6,
+        "uv_index": 0,
+        "humidity": 78,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T02:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 25.2,
+        "feels_like": 29.5,
+        "wind_chill": 27,
+        "dew_point": 22,
+        "wind": {
+          "speed": 2.8,
+          "gusts": 5.8,
+          "dir": "S",
+          "angle": 173
+        },
+        "cloud_cover": 28,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 312.01,
+        "uv_index": 0,
+        "humidity": 82,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T03:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 25.2,
+        "feels_like": 29.8,
+        "wind_chill": 26.8,
+        "dew_point": 22.2,
+        "wind": {
+          "speed": 2.7,
+          "gusts": 5.8,
+          "dir": "S",
+          "angle": 175
+        },
+        "cloud_cover": 32,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 310.88,
+        "uv_index": 0,
+        "humidity": 83,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T04:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 25,
+        "feels_like": 29.5,
+        "wind_chill": 26.5,
+        "dew_point": 22.2,
+        "wind": {
+          "speed": 2.6,
+          "gusts": 5.9,
+          "dir": "S",
+          "angle": 169
+        },
+        "cloud_cover": 32,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 309.73,
+        "uv_index": 0,
+        "humidity": 84,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T05:00:00",
+        "weather": "partly_clear",
+        "icon": 28,
+        "summary": "Partly clear",
+        "temperature": 25,
+        "feels_like": 29.8,
+        "wind_chill": 26.8,
+        "dew_point": 22.5,
+        "wind": {
+          "speed": 2.5,
+          "gusts": 5.7,
+          "dir": "SSE",
+          "angle": 167
+        },
+        "cloud_cover": 32,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.84,
+        "uv_index": 0,
+        "humidity": 86,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T06:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 25,
+        "feels_like": 30,
+        "wind_chill": 27,
+        "dew_point": 22.8,
+        "wind": {
+          "speed": 2.3,
+          "gusts": 5.4,
+          "dir": "SSE",
+          "angle": 167
+        },
+        "cloud_cover": 30,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.8,
+        "uv_index": 0,
+        "humidity": 87,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-24T07:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 25.2,
+        "feels_like": 30.2,
+        "wind_chill": 26.8,
+        "dew_point": 22.8,
+        "wind": {
+          "speed": 2.2,
+          "gusts": 4.9,
+          "dir": "SSE",
+          "angle": 158
+        },
+        "cloud_cover": 27,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 309.47,
+        "uv_index": 0.12,
+        "humidity": 86,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-24T08:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 26.5,
+        "feels_like": 30.5,
+        "wind_chill": 27,
+        "dew_point": 21.5,
+        "wind": {
+          "speed": 2.8,
+          "gusts": 6,
+          "dir": "SSE",
+          "angle": 165
+        },
+        "cloud_cover": 20,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.98,
+        "uv_index": null,
+        "humidity": 74,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T09:00:00",
+        "weather": "mostly_sunny",
+        "icon": 3,
+        "summary": "Mostly sunny",
+        "temperature": 27.8,
+        "feels_like": 30.5,
+        "wind_chill": 27,
+        "dew_point": 19.8,
+        "wind": {
+          "speed": 3.5,
+          "gusts": 7.2,
+          "dir": "S",
+          "angle": 169
+        },
+        "cloud_cover": 17,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 308.49,
+        "uv_index": null,
+        "humidity": 61,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T10:00:00",
+        "weather": "mostly_sunny",
+        "icon": 3,
+        "summary": "Mostly sunny",
+        "temperature": 29,
+        "feels_like": 30.8,
+        "wind_chill": 27.2,
+        "dew_point": 18.5,
+        "wind": {
+          "speed": 4.1,
+          "gusts": 8.4,
+          "dir": "S",
+          "angle": 172
+        },
+        "cloud_cover": 14,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 307.99,
+        "uv_index": null,
+        "humidity": 53,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T11:00:00",
+        "weather": "mostly_sunny",
+        "icon": 3,
+        "summary": "Mostly sunny",
+        "temperature": 30.2,
+        "feels_like": 31.2,
+        "wind_chill": 27.8,
+        "dew_point": 17.8,
+        "wind": {
+          "speed": 4.6,
+          "gusts": 9,
+          "dir": "S",
+          "angle": 169
+        },
+        "cloud_cover": 14,
+        "pressure": 1016,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 307.78,
+        "uv_index": null,
+        "humidity": 47,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T12:00:00",
+        "weather": "mostly_sunny",
+        "icon": 3,
+        "summary": "Mostly sunny",
+        "temperature": 31.8,
+        "feels_like": 32,
+        "wind_chill": 28.5,
+        "dew_point": 17.5,
+        "wind": {
+          "speed": 5.1,
+          "gusts": 9.5,
+          "dir": "SSE",
+          "angle": 167
+        },
+        "cloud_cover": 15,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 307.57,
+        "uv_index": null,
+        "humidity": 42,
+        "visibility": 24.14
+      },
+      {
+        "date": "2025-05-24T13:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 33.5,
+        "feels_like": 33.2,
+        "wind_chill": 30.2,
+        "dew_point": 17.8,
+        "wind": {
+          "speed": 5.5,
+          "gusts": 10.2,
+          "dir": "SSE",
+          "angle": 166
+        },
+        "cloud_cover": 21,
+        "pressure": 1015,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 307.36,
+        "uv_index": null,
+        "humidity": 39,
+        "visibility": 24.13
+      },
+      {
+        "date": "2025-05-24T14:00:00",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny",
+        "temperature": 33.5,
+        "feels_like": 38,
+        "wind_chill": 37,
+        "dew_point": 17.2,
+        "wind": {
+          "speed": 5.6,
+          "gusts": 10.6,
+          "dir": "SSE",
+          "angle": 164
+        },
+        "cloud_cover": 28,
+        "pressure": 1014,
+        "precipitation": {
+          "total": 0,
+          "type": "none"
+        },
+        "probability": {
+          "precipitation": 0,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 307.67,
+        "uv_index": null,
+        "humidity": 38,
+        "visibility": 24.14
+      }
+    ]
+  }
+}

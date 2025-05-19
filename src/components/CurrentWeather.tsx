@@ -1,5 +1,6 @@
 import { getCurrentWeather, WeatherData, WeatherWidget, buildOtherInfoWidgets } from "@/api"
 import '@/styles/components/CurrentWeather.scss'
+import WeatherIcon from "./WeatherIcon";
 
 const CurrentWeather = () => {
   const data : WeatherData = getCurrentWeather();
@@ -7,12 +8,7 @@ const CurrentWeather = () => {
   return (
     <div className="CurrentWeather">
       <div className="temperature">
-        <div className="weather-icon">
-          <img
-            src={`icons/${data.icon_num}_t@2x.png`}
-            alt={data.summary}
-          />
-        </div>
+        <WeatherIcon iconNumber={data.icon_num} summary={data.summary}/>
         <div className="value">
           <div className="real">{data.temperature} °C </div>
           <div className="feels_like">fells like {data.feels_like} °C</div>
