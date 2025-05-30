@@ -5,11 +5,9 @@
   @include no-text-select;
 
   .widget-container {
-    display: flex;
-    align-items: center;
-    overflow: hidden;
     margin-top: 0.5rem;
     padding-top: 1.5rem;
+    overflow-x: scroll;
 
     .widget {
       position: relative;

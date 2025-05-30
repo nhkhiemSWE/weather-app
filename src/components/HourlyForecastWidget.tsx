@@ -7,7 +7,7 @@ interface HourlyForecastWidgetProps {
 
 const HourlyForecastWidget = ({data} : HourlyForecastWidgetProps) => {
   const {date, icon, summary, temperature, precipitation, wind} = data;
-
+  // console.log("HourlyForecastWidget", date);
 
   const nowDate = {
     day: new Intl.DateTimeFormat('en-US', {

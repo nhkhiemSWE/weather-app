@@ -177,7 +177,10 @@ export function getDailyForecast(): DailyForecastData {
 
 /* -------- hourly -------- */
 export function getHourlyForecast(): HourlyForecastData {
-  const hourly: HourlyData[] = hourlyForecast.hourly.data.map(d => ({
+  //hourlyForecast has 72 data points, get the first 24 hours of the forecast only
+
+
+  const hourly: HourlyData[] = hourlyForecast.hourly.data.slice(0,24).map(d => ({
     date: d.date,
     icon: d.icon,
     summary: d.summary,
